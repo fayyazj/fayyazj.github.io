@@ -1,5 +1,5 @@
-# fayyazj.github.io
+# Latitiudes - Web Visualization Dashboard
 
-Want to see some brief HTML work? Go to:
+Web Visualization Dashboard utilizing data from OpenWeatherMap API/APIs-Challenge GitHub repository. Data includes weather in 500+ cities at various latitudes in relation to the equator line. Data visualizations created via python (matplotlib & seaborn) present temperature, humidity, cloudiness, and wind speed. Web visualization tools included using HTML, CSS, and Bootstrap.
 
-https://fayyazj.github.io/fez.html
+https://fayyazj.github.io/Web-Visualization-Dashboard
