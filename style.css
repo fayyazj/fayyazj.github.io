@@ -55,7 +55,7 @@ img{
 
 /* Title Class  */
 .title{
-    color: rgb(75, 77, 76); 
+    color: black; 
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder; 
     padding-top: 25px; 
@@ -99,16 +99,14 @@ padding-top: 15px;
 }
 /* Media Queries */
 @media(max-width: 992px){
-.navbar-expand-lg{
-background-color: rgb(75, 77, 76) !important;
-}
+
 .navbar{
     max-height: none; 
     padding: inherit;
 }
 .navbar div{
     margin: inherit; 
-    background-color: white;  
+    background-color: rgb(75, 77, 76);  
 }
 .navbar-brand{
     padding: 10px !important; 
